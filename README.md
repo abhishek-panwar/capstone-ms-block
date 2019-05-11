@@ -6,7 +6,9 @@ this code includes broadcasting blocks
 pull project to working directory
 =============
 git pull origin master - sync local master with (git) remote master
+
 git checkout <branch name> - switch to local branch
+
 git pull origin master - sync with local master branch
 
 
